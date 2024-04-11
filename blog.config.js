@@ -269,6 +269,12 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: '使一颗心免于哀伤',
+      artist: '卡芙卡',
+      url: 'https://music.163.com/song/media/outer/url?id=2124631325.mp3',
+      cover: 'https://p2.music.126.net/n5FCApX3LXkstlWUFkIevw==/109951169318034377.jpg'
+    },
+    {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
