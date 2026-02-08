@@ -37,13 +37,27 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: '可不可以',
+      artist: '女生版',
+      url: 'https://music.163.com/song/media/outer/url?id=1316256535',
+      cover:
+        'https://p1.music.126.net/bOrVFPO94JHXzpq5PR_wcg==/109951171391172134.jpg'
+    },
+    {
+      name: '时光机的选择',
+      artist: '龑宸',
+      url: 'https://music.163.com/song/media/outer/url?id=2719388394',
+      cover:
+        'https://p2.music.126.net/SZly1aSeKc9xM_NjdJuSlw==/109951171861192772.jpg'
+    } 
+//  {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
-    {
+//  {
       name: '王都グランセル',
       artist: 'Falcom Sound Team jdk',
       url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
